@@ -1,0 +1,1 @@
+We are looking for an entry-level AI/ML engineer with Python, SQL, machine learning and data analysis skills. Knowledge of NumPy, Pandas, scikit-learn, Git and NLP is preferred. Candidates should have academic or personal projects and good problem-solving skills.

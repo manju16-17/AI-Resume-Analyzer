@@ -1,0 +1,28 @@
+AI RESUME ANALYZER — PROJECT SUMMARY
+
+Objective:
+Build a simple AI/ML web application that analyzes resumes and compares them with job descriptions.
+
+Input:
+1. Resume PDF
+2. Optional job description
+
+Output:
+- Resume score
+- Detected technical skills
+- Word count
+- Improvement suggestions
+- Job-match score
+- Matched and missing keywords
+
+Algorithms:
+- Text preprocessing using regular expressions
+- Keyword-based skill extraction
+- TF-IDF vectorization
+- Cosine similarity
+
+Future Scope:
+Use transformer embeddings, named entity recognition, an LLM feedback layer, resume ranking, and cloud deployment.
+
+Author:
+Manjunath N
